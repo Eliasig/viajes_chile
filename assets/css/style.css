@@ -1,5 +1,6 @@
-@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css);
-
+html {
+    scroll-behavior: smooth;
+  }
  .navbar-light .navbar-brand {
     color: #fff!important;
  }
